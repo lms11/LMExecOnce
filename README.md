@@ -1,7 +1,6 @@
 #ExecOnce
 Execute a block once per version in your iOS app easily. ;)
 
-=======
 ## How It Works
 It is very simple:
     
